@@ -1,2 +1,0 @@
-# sshDemo
-ssh
